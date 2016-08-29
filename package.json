@@ -8,8 +8,14 @@
     "prepublish": "npm run build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rflipo-dev/loopback-seed.git"
+  },
   "keywords": [
-    "loopback;seed"
+    "loopback",
+    "seed",
+    "database"
   ],
   "author": "rflipo-dev",
   "license": "MIT",
