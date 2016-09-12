@@ -7,7 +7,7 @@ export default class LoopbackFactory {
   toJSON() {
     return {
       name: this.name,
-      options: this.options
-    }
-  };
+      options: this.options,
+    };
+  }
 }
